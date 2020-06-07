@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_norvec.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\norvec.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ispanya.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\ispanya.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bulgaristan.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\bulgaristan.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hollanda.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\hollanda.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fransa.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\fransa.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rusya.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\rusya.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_italya.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\italya.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_yunanistan.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\yunanistan.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_almanya.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\almanya.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slovenya.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\slovenya.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_slovakya.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\slovakya.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sonuc.xml.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\layout\\activity_sonuc.xml"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_romanya.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\romanya.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_quiz.xml.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\layout\\activity_quiz.xml"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bosnahersek.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\bosnahersek.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_turkiye.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\turkiye.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_estonya.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\drawable\\estonya.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\androidstudioprojeler\\FlagQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\androidstudioprojeler\\FlagQuiz\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
